@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋, I'm Mubariz Ahmed
+### A mechatronics engineer and developer from 🇩🇪 🇰🇪 🇵🇰
+
+- 🤸 Things I know how to do: Robotics, Embedded Systems, Front-end Development
+- 📫 How to reach me: mubariz@mubariz.me
+- 🌐 See my other projects: www.mubariz.me
 
 <!--
 **mubarizahmed/mubarizahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
